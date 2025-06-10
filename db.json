@@ -1,0 +1,26 @@
+{
+   
+    "utilisateurs":[
+        {
+            "id":1,
+            "nom": "NDIAYE",
+            "prenom":"Fallou", 
+            "telephone": "778012731",
+            "mdp":"passer123",
+            "contact":[],
+            "mssge":[],
+            "group":[]
+        },
+        {
+            "id":2,
+            "nom": "NDIAYE",
+            "prenom":"Falillou", 
+            "telephone": "778022731",
+            "mdp":"passer123",
+            "contact":[],
+            "mssge":[],
+            "group":[]
+        }
+    ]
+
+}
