@@ -1,26 +1,88 @@
 {
-   
-    "utilisateurs":[
-        {
-            "id":1,
-            "nom": "NDIAYE",
-            "prenom":"Fallou", 
-            "telephone": "778012731",
-            "mdp":"passer123",
-            "contact":[],
-            "mssge":[],
-            "group":[]
-        },
-        {
-            "id":2,
-            "nom": "NDIAYE",
-            "prenom":"Falillou", 
-            "telephone": "778022731",
-            "mdp":"passer123",
-            "contact":[],
-            "mssge":[],
-            "group":[]
-        }
-    ]
-
+  "utilisateurs": [
+    {
+      "id": "1",
+      "nom": "NDIAYE",
+      "prenom": "Fallou",
+      "telephone": "7",
+      "mdp": "p",
+      "contact": [
+        "2",
+        "5fff"
+      ],
+      "mssge": [
+        101,
+        102
+      ],
+      "group": []
+    },
+    {
+      "id": "2",
+      "nom": "Faby",
+      "prenom": "Sylla",
+      "telephone": "778022731",
+      "mdp": "passer123",
+      "contact": [
+        "1"
+      ],
+      "mssge": [
+        103
+      ],
+      "group": []
+    },
+    {
+      "id": "5fff",
+      "nom": "Falilloulahi",
+      "prenom": "Ndiaye",
+      "telephone": "77345673456",
+      "mdp": "passer",
+      "contact": [
+        "1"
+      ],
+      "mssge": [
+        104
+      ],
+      "group": []
+    },
+    {
+      "id": "83a9",
+      "nom": "diop",
+      "prenom": "amy",
+      "telephone": "774844141",
+      "mdp": "passer",
+      "contact": ["1"],
+      "mssge": [],
+      "group": []
+    }
+  ],
+  "messages": [
+    {
+      "id": "101",
+      "emetteur": "1",
+      "recepteur": "2",
+      "contenu": "Salut Falillou, ça va ?",
+      "date": "2025-06-05T12:30:00Z"
+    },
+    {
+      "id": "102",
+      "emetteur": "2",
+      "recepteur": "1",
+      "contenu": "Oui Fallou, merci ! Et toi ?",
+      "date": "2025-06-05T12:31:00Z"
+    },
+    {
+      "id": "103",
+      "emetteur": "1",
+      "recepteur": "5fff",
+      "contenu": "Yo falilloulahi 😎",
+      "date": "2025-06-05T13:00:00Z"
+    },
+    {
+      "id": "104",
+      "emetteur": "5fff",
+      "recepteur": "1",
+      "contenu": "Hey Fallou ! Tu vas bien ?",
+      "date": "2025-06-05T13:01:00Z"
+    }
+  ]
 }
