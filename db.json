@@ -8,7 +8,8 @@
       "mdp": "p",
       "contact": [
         "2",
-        "5fff"
+        "5fff",
+        "8791"
       ],
       "mssge": [
         101,
@@ -50,7 +51,37 @@
       "prenom": "amy",
       "telephone": "774844141",
       "mdp": "passer",
-      "contact": ["1"],
+      "contact": [
+        "1"
+      ],
+      "mssge": [],
+      "group": []
+    },
+    {
+      "id": "877f",
+      "nom": "sagnane",
+      "prenom": "Thierno",
+      "telephone": "772010101",
+      "mdp": "passer",
+      "contact": [
+        "1"
+      ],
+      "mssge": [],
+      "group": []
+    },
+    {
+      "id": "8791",
+      "prenom": "ousmane",
+      "nom": "marra",
+      "telephone": "772000000",
+      "mdp": "passe",
+      "contact": [
+        "1",
+        "2",
+        "5fff",
+        "83a9",
+        "877f"
+      ],
       "mssge": [],
       "group": []
     }
@@ -83,6 +114,38 @@
       "recepteur": "1",
       "contenu": "Hey Fallou ! Tu vas bien ?",
       "date": "2025-06-05T13:01:00Z"
+    },
+    {
+      "id": "fb16",
+      "emetteur": "1",
+      "recepteur": "1",
+      "contenu": "jjkkk",
+      "date": "2025-06-12T21:18:44.682Z",
+      "lu": false
+    },
+    {
+      "id": "40fb",
+      "emetteur": "1",
+      "recepteur": "5fff",
+      "contenu": "dfgjhkjlk",
+      "date": "2025-06-12T21:19:07.052Z",
+      "lu": false
+    },
+    {
+      "id": "64b9",
+      "emetteur": "1",
+      "recepteur": "2",
+      "contenu": "fallou",
+      "date": "2025-06-12T21:19:46.454Z",
+      "lu": false
+    },
+    {
+      "id": "9fac",
+      "emetteur": "1",
+      "recepteur": "877f",
+      "contenu": "fallou",
+      "date": "2025-06-12T21:20:54.977Z",
+      "lu": false
     }
   ]
 }
