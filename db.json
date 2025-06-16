@@ -4,12 +4,14 @@
       "id": "1",
       "nom": "NDIAYE",
       "prenom": "Fallou",
-      "telephone": "7",
-      "mdp": "p",
+      "telephone": "778012731",
+      "mdp": "passer",
       "contact": [
         "2",
         "5fff",
-        "8791"
+        "8791",
+        "877f",
+        "83a9"
       ],
       "mssge": [
         101,
@@ -24,7 +26,8 @@
       "telephone": "778022731",
       "mdp": "passer123",
       "contact": [
-        "1"
+        "1",
+        "5fff"
       ],
       "mssge": [
         103
@@ -82,6 +85,36 @@
         "83a9",
         "877f"
       ],
+      "mssge": [],
+      "group": []
+    },
+    {
+      "id": "ec0a",
+      "prenom": "astou",
+      "nom": "mbow",
+      "telephone": "78124354",
+      "mdp": "passer",
+      "contact": [],
+      "mssge": [],
+      "group": []
+    },
+    {
+      "id": "42df",
+      "nom": "mama",
+      "prenom": "ndiaye",
+      "telephone": "771234567",
+      "mdp": "passer123",
+      "contact": [],
+      "mssge": [],
+      "group": []
+    },
+    {
+      "id": "64b0",
+      "nom": "mama",
+      "prenom": "ndiaye",
+      "telephone": "771234561",
+      "mdp": "passer",
+      "contact": [],
       "mssge": [],
       "group": []
     }
@@ -146,6 +179,300 @@
       "contenu": "fallou",
       "date": "2025-06-12T21:20:54.977Z",
       "lu": false
+    },
+    {
+      "id": "f5ec",
+      "emetteur": "8791",
+      "recepteur": "1",
+      "contenu": "fallou",
+      "date": "2025-06-14T13:13:46.480Z",
+      "lu": false
+    },
+    {
+      "id": "db6f",
+      "emetteur": "8791",
+      "recepteur": "1",
+      "contenu": "salut",
+      "date": "2025-06-14T13:14:15.717Z",
+      "lu": false
+    },
+    {
+      "id": "41b3",
+      "emetteur": "1",
+      "recepteur": "8791",
+      "contenu": "wa frer",
+      "date": "2025-06-14T13:14:48.539Z",
+      "lu": false
+    },
+    {
+      "id": "dcee",
+      "emetteur": "8791",
+      "recepteur": "1",
+      "contenu": "dcfgvhbjklozdjnjirnejdfgvhniàoksdftyuiopertyuioenz j erjfjie\"kozklf efuzjifiokozkfioeijfokfokezokfoàifjri  rehojzkpdqokrokor rfjofeiiçàfieràçirf rfjfnreoijfijrià foiojirjeijfr",
+      "date": "2025-06-14T13:15:20.079Z",
+      "lu": false
+    },
+    {
+      "id": "c1a1",
+      "emetteur": "1",
+      "recepteur": "8791",
+      "contenu": "fghtv_yb('nià,\"o;f^pigà'ko(kog)ollllllllllllllllllllllllllllllllllllllllllllllll",
+      "date": "2025-06-14T13:16:59.629Z",
+      "lu": false
+    },
+    {
+      "id": "165b",
+      "emetteur": "1",
+      "recepteur": "8791",
+      "contenu": "hjujjjjjjjjjjjjjjjjjjjjjjjjjjjiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "date": "2025-06-14T13:18:39.059Z",
+      "lu": false
+    },
+    {
+      "id": "00c5",
+      "emetteur": "8791",
+      "recepteur": "1",
+      "contenu": "ggggggggggggg",
+      "date": "2025-06-14T13:20:11.703Z",
+      "lu": false
+    },
+    {
+      "id": "4508",
+      "emetteur": "1",
+      "recepteur": "8791",
+      "contenu": "frteyiuoiz yuijkolg'relfop yuhijokplg' 'rèe_uzçijokp -tvybunio,p;('\"fe tvybuçni,o -rt\"è'yiuoezkdsm tfyguhijok fyguhijlkm cyvubin,l;m fguhijokp tyubnk,l;m tfyguhijokp tfyguhijo",
+      "date": "2025-06-14T13:21:30.120Z",
+      "lu": false
+    },
+    {
+      "id": "4598",
+      "emetteur": "2",
+      "recepteur": "1",
+      "contenu": "salut",
+      "date": "2025-06-15T00:38:31.333Z",
+      "lu": false
+    },
+    {
+      "id": "f8cb",
+      "emetteur": "1",
+      "recepteur": "2",
+      "contenu": "fatou nkm",
+      "date": "2025-06-15T00:39:19.875Z",
+      "lu": false
+    },
+    {
+      "id": "d1b2",
+      "emetteur": "2",
+      "recepteur": "1",
+      "contenu": "cool yagui si diam",
+      "date": "2025-06-15T00:39:36.344Z",
+      "lu": false
+    },
+    {
+      "id": "d6e4",
+      "emetteur": "1",
+      "recepteur": "2",
+      "contenu": "salut",
+      "date": "2025-06-16T19:20:16.702Z",
+      "lu": false
+    },
+    {
+      "id": "85ba",
+      "emetteur": "1",
+      "recepteur": "83a9",
+      "contenu": "mama",
+      "date": "2025-06-16T19:20:31.198Z",
+      "lu": false
+    },
+    {
+      "id": "3884",
+      "emetteur": "2",
+      "recepteur": "1",
+      "contenu": "defd",
+      "date": "2025-06-16T19:44:01.166Z",
+      "lu": false
+    },
+    {
+      "id": "7cfc",
+      "emetteur": "2",
+      "recepteur": "5fff",
+      "contenu": "CV",
+      "date": "2025-06-16T20:00:48.862Z",
+      "lu": false
+    }
+  ],
+  "groupes": [
+    {
+      "id": "1",
+      "nom": "Groupe 1",
+      "participants": [
+        "1",
+        "2",
+        "5fff"
+      ],
+      "messages": [
+        {
+          "id": "201",
+          "emetteur": "1",
+          "contenu": "Bienvenue dans le groupe 1 !",
+          "date": "2025-06-15T01:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "nom": "Groupe 2",
+      "participants": [
+        "1",
+        "83a9"
+      ],
+      "messages": []
+    },
+    {
+      "id": "7a39",
+      "nom": "t'rr",
+      "admin": "2",
+      "membres": [
+        "1",
+        "2"
+      ],
+      "messages": [
+        {
+          "id": "1750109323152",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "SALAM",
+          "date": "2025-06-16T21:28:43.152Z"
+        },
+        {
+          "id": "1750109331259",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "SALAM",
+          "date": "2025-06-16T21:28:51.259Z"
+        },
+        {
+          "id": "1750109337154",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "SALAM",
+          "date": "2025-06-16T21:28:57.154Z"
+        },
+        {
+          "id": "1750109342049",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "SALAM",
+          "date": "2025-06-16T21:29:02.049Z"
+        },
+        {
+          "id": "1750109346083",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "SALAM",
+          "date": "2025-06-16T21:29:06.083Z"
+        },
+        {
+          "id": "1750109351971",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "SALAM",
+          "date": "2025-06-16T21:29:11.971Z"
+        },
+        {
+          "id": "1750109356799",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "SALAM",
+          "date": "2025-06-16T21:29:16.799Z"
+        },
+        {
+          "id": "1750109380143",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "SALAM",
+          "date": "2025-06-16T21:29:40.143Z"
+        },
+        {
+          "id": "1750109404042",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "SALAM",
+          "date": "2025-06-16T21:30:04.042Z"
+        },
+        {
+          "id": "1750109411439",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "SALAM",
+          "date": "2025-06-16T21:30:11.439Z"
+        }
+      ],
+      "dateCreation": "2025-06-16T19:22:30.890Z"
+    },
+    {
+      "id": "2036",
+      "nom": "odc",
+      "admin": "2",
+      "membres": [
+        "1",
+        "5fff",
+        "2"
+      ],
+      "messages": [
+        {
+          "id": "1750103030463",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "fd",
+          "date": "2025-06-16T19:43:50.463Z"
+        },
+        {
+          "id": "1750104443741",
+          "emetteur": "1",
+          "nomEmetteur": "Fallou NDIAYE",
+          "contenu": "fjj",
+          "date": "2025-06-16T20:07:23.742Z"
+        },
+        {
+          "id": "1750108779920",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "vvgh",
+          "date": "2025-06-16T21:19:39.920Z"
+        },
+        {
+          "id": "1750115152963",
+          "emetteur": "2",
+          "nomEmetteur": "Sylla Faby",
+          "contenu": "guayi",
+          "date": "2025-06-16T23:05:52.963Z"
+        }
+      ],
+      "dateCreation": "2025-06-16T19:37:38.938Z"
+    },
+    {
+      "id": "3a0b",
+      "nom": "odc p6 dev web mobile",
+      "admin": "1",
+      "membres": [
+        "2",
+        "5fff",
+        "83a9",
+        "877f",
+        "8791",
+        "1"
+      ],
+      "messages": [
+        {
+          "id": "1750115315633",
+          "emetteur": "1",
+          "nomEmetteur": "Fallou NDIAYE",
+          "contenu": "team si lolen neikk",
+          "date": "2025-06-16T23:08:35.633Z"
+        }
+      ],
+      "dateCreation": "2025-06-16T23:08:07.715Z"
     }
   ]
 }
